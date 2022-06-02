@@ -1,0 +1,104 @@
+#poster-titulo {
+    background-color: black;
+    border-top: 80px;
+
+}
+
+#creditos {
+    background-color: #902f88;
+    color: whitesmoke;
+    font-style: "Libre Franklin";
+    font-stretch: extra-condensed;
+}
+
+h1 { 
+    color: white;
+    text-align: center;
+    font-size: 50px; 
+    font-family: Geneva, Verdana, sans-serif;
+}
+
+h3 { 
+    color: white;
+    text-align:center;
+    font-style: "Libre Franklin";
+    font-weight: bold;
+
+}
+
+h4 { 
+    font-family: "Courier New", Courier, monospace;
+}
+
+p { 
+    font-family: Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    color: gray;
+}
+
+#conteudo { 
+    font-family: Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    color: gray;
+    display: flex;
+    flex-direction: row;
+    justify-content:first baseline;
+}
+
+
+footer { 
+    font-family: Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    color: gray;
+    background-color: #00a18a;
+    display: flex;
+    flex-direction: center;
+    justify-content: center;
+}
+
+div { 
+    color: blueviolet;
+    text-align:center;
+}
+
+ 
+
+  img {
+    margin-top: 50px;
+    padding: 15px;
+}
+
+.titulo {
+    font-family: Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    font-size: 18px;
+    color: gray;
+
+}
+
+.subtitulo {
+    font-family: Geneva, Verdana, sans-serif;
+    font-weight: normal;
+    color: black; 
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: flex-end;
+}
+.titulo2 {
+    font-family: Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    font-size: 18px;
+    color: gray;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+
+.texto {
+    font-family: Geneva, Verdana, sans-serif;
+    font-weight: normal;
+    color: black; 
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
